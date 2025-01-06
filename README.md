@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# SilverScreener
-Movie Booking System Website
-=======
 # Movie Booking System - SilverScreener
 
 ## Overview
