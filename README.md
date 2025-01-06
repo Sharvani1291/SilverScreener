@@ -45,4 +45,3 @@ SilverScreener is a web-based movie ticket booking system designed to make movie
 
 
 For any questions or support, please contact [Sharvani1291](https://github.com/Sharvani1291).
->>>>>>> c997eb3 (Updated Code)
